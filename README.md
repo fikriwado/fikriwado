@@ -7,5 +7,4 @@ I come from Indonesia and I have a total experience of about 5 years in front en
 * ⚛ React, Gatsby
 * 💻 HTML, CSS, JS
 
-## Skills and Experience
-[![Fikriwado's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikriwado)](https://github.com/fikriwado/github-readme-stats)
+## Examples of Work
