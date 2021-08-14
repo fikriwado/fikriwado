@@ -9,4 +9,4 @@ I come from Indonesia and I have a total experience of about 5 years in front en
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
-<img src="https://github.com/fikriwado/fikriwado/blob/main/assets/portoby.jpg" width="512" >
+<img src="https://github.com/fikriwado/fikriwado/blob/main/assets/portoby.jpg" width="512">
