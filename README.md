@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ![Fikri Wado](https://github.com/fikriwado/fikriwado/blob/main/assets/banner.jpg)
 
 # Moch Fikri Khoirurrizal (Fikri Wado)
